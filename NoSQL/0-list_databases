@@ -1,4 +1,3 @@
 // my comment
-#!/usr/bin/env bash
-# Script that lists all MongoDB databases
-echo "show dbs" | mongo
+show dbs
+
